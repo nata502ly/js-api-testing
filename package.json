@@ -1,0 +1,15 @@
+{
+  "name": "js-automation-course",
+  "version": "1.0.0",
+  "description": "Our example description",
+  "private": true,
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Natalia Kravchuk <roshina.n.yu@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "frisby": "^2.1.1",
+    "mocha": "^6.1.4"
+  }
+}
